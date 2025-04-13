@@ -1,0 +1,63 @@
+ARTEFACT DROP: AR-THB-CX20250413
+TITLE: Informal THB Conversion Limits in Cross-Border Freight Clearing Accounts
+DATE: 13 April 2025
+CLASSIFICATION: Clearance-Node Internal Advisory (Tier 2A — Passive Distribution)
+CONTACT: alexrenner.signal@protonmail.com
+HASH: SHA3-256: f1e69a5dd8db2efc89c0d47a73fbed7cbe10ba9c97a2db17646db9cf1d5c7744
+
+---
+
+Overview
+
+Recent monitoring of freight payment corridors across ASEAN has revealed the emergence of informal limits on Thai Baht (THB) conversion within key cross-border clearing accounts — specifically accounts linked to logistics operators facilitating large-volume re-export flows through Thailand.
+
+These conversion constraints appear non-codified but consistently enforced, indicating a possible sterilisation strategy or soft capital control measure aimed at dampening offshore THB demand volatility without public disclosure.
+
+---
+
+Key Observations
+
+1. Unofficial THB Ceiling Thresholds in Freight Accounts
+   - Operators in Songkhla and Laem Chabang report informal limits of ฿12M–฿18M/month.
+   - Settlement stalls after soft cap reached; not policy-based, but enforced.
+   - Workarounds: delayed batching, offshore rerouting (2.4–3.0% spread).
+
+2. Origin Filtering Patterns
+   - Shipments from Vietnam, Cambodia, and Southern China experience heightened friction.
+   - Ringgit billing suggested as alternative pathway for short-term relief.
+
+3. Currency Control Language in Private Channels
+   - One commercial compliance officer:  
+     “We’ve been encouraged to limit speculative Baht flows disguised as shipping settlements.”
+   - Internal memos reference "monitored corridor saturation metrics" — not in BoT comms.
+
+---
+
+Implications for Market Participants
+
+Currency Traders & Macro Analysts:
+   - FX conversion frictions may distort volatility metrics.
+   - THB-JPY and THB-USD trade setups exposed to latency spikes.
+
+Freight Coordinators:
+   - Expect liquidity gaps and non-transparent rejection windows.
+   - Increased demand for non-THB denominated factoring.
+
+System Observers:
+   - Pattern suggests centralised fragility management.
+   - Likely pre-emptive sterilisation ahead of outbound capital risk scenarios.
+
+---
+
+Conclusion
+
+The Thai Baht is being quietly sterilised through corridor-level friction, not overt policy. Corridor confidence decoupling may force jurisdictional rerouting by Q2–Q3 2025 if not addressed.
+
+Further artefact drops to follow.
+
+---
+
+END SIGNAL
+TIMESTAMP: 2025-04-13T07:44:00Z
+CLEARANCE NODE: AR-THB-CX20250413
+HASH VERIFIED: f1e69a5dd8db2efc89c0d47a73fbed7cbe10ba9c97a2db17646db9cf1d5c7744
